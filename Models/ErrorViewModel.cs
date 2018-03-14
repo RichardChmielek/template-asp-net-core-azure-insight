@@ -1,6 +1,6 @@
 using System;
 
-namespace template_asp_net_core_azure_insight.Models
+namespace template_asp_net_core_azure_insights.Models
 {
     public class ErrorViewModel
     {

@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using template_asp_net_core_azure_insight.Models;
+using template_asp_net_core_azure_insights.Models;
 
-namespace template_asp_net_core_azure_insight.Controllers
+namespace template_asp_net_core_azure_insights.Controllers
 {
     public class HomeController : Controller
     {

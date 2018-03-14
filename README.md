@@ -1,2 +1,2 @@
-# template-asp-net-core-azure-insight
-Template for asp net core with Azure Insight
+# template-asp-net-core-azure-insights
+Template for asp net core with Azure Insights

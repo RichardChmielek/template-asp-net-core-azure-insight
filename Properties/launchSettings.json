@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "template_asp_net_core_azure_insight": {
+    "template_asp_net_core_azure_insights": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

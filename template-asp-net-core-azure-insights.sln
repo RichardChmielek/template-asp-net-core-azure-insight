@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "template-asp-net-core-azure-insight", "template-asp-net-core-azure-insight.csproj", "{305CE2D2-2E6D-499B-A103-20BA332E05EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "template-asp-net-core-azure-insights", "template-asp-net-core-azure-insights.csproj", "{305CE2D2-2E6D-499B-A103-20BA332E05EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

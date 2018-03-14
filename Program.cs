@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace template_asp_net_core_azure_insight
+namespace template_asp_net_core_azure_insights
 {
     public class Program
     {
