@@ -20,6 +20,7 @@ namespace template_asp_net_core_azure_insights
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
+                .UseApplicationInsights()
                 .Build();
     }
 }
